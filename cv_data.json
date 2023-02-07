@@ -1,0 +1,84 @@
+{
+  "personal": {
+    "name": "Iustinian Hirlea",
+    "age": 25,
+    "birthday": "",
+    "nationality": "Romanian",
+    "location": "Cluj-Napoca",
+    "country": "Romania",
+    "email": "",
+    "phone": ""
+  },
+  "experience": [
+    {
+      "start_date": "01-10-2020",
+      "end_date": "",
+      "title": "Freelancer",
+      "company": "",
+      "description": ""
+    },
+    {
+      "start_date": "01-03-2022",
+      "end_date": "31-07-2022",
+      "title": "Java Developrt",
+      "company": "Mindit",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "start_date": "01-10-2019",
+      "end_date": "01-06-2022",
+      "name": "Faculty of Economics and Business Administration",
+      "subject": "Economics and International Affairs",
+      "location": "Cluj-Napoca",
+      "description": ""
+    },
+    {
+      "start_date": "01-11-2017",
+      "end_date": "01-03-2018",
+      "name": "Faculty of Automation and Computers",
+      "subject": "CISCO CCNA Routing and Switching",
+      "location": "Cluj-Napoca",
+      "description": "First 2 semesters"
+    },
+    {
+      "start_date": "01-09-2012",
+      "end_date": "01-06-2016",
+      "name": "Stefan cel Mare National College",
+      "subject": "Mathematics and informatics, intensive informatics",
+      "location": "Suceava",
+      "description": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python 3",
+      "level": "intermediate"
+    },
+    {
+      "name": "Flask",
+      "level": "intermediate"
+    },
+    {
+      "name": "Django",
+      "level": "intermediate"
+    },
+    {
+      "name": "FastAPI",
+      "level": "intermediate"
+    },
+    {
+      "name": "HTML & CSS",
+      "level": "beginner/intermediate"
+    },
+    {
+      "name": "jQuery",
+      "level": "beginner/intermediate"
+    },
+    {
+      "name": "Redis",
+      "level": "intermediate"
+    }
+  ]
+}
