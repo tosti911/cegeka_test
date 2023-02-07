@@ -1,5 +1,5 @@
 ## Description
-This is a coding test example for a simple Flask app that presents your CV data
+This is a coding test example for a simple Flask app that presents your CV data from the `cv_data.json` file.
 
 ## Installation
 First we need to clone the repository using: `git clone https://github.com/tosti911/cegeka_test.git`
